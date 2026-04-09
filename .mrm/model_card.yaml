@@ -1,0 +1,10 @@
+current_version: 1.0.0
+description: Transaction fraud detection model
+framework: xgboost
+name: Fraud Detector
+owner: fraud-team
+risk_tier: critical
+stage: validation
+tags:
+- fraud
+- transactions
