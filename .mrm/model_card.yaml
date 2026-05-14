@@ -1,0 +1,12 @@
+name: AML Suspicious Activity
+description: Anti-Money Laundering (AML) topology mapping.
+stage: validation
+current_version: 2.1.0
+risk_tier: critical
+framework: networkx
+owner: compliance-tech
+scope: AML Compliance
+tags:
+  domain: aml
+  regulation: fatf
+  env: validation

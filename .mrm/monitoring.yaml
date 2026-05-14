@@ -1,0 +1,10 @@
+drift_detection: true
+features:
+- hop_count
+- total_flow_usd
+- network_density
+psi_threshold: 0.1
+quality_metrics:
+- completeness
+- uniqueness
+schedule: daily
