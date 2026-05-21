@@ -1,7 +1,7 @@
-mlflow>=2.12
-networkx>=3.3
 numpy>=1.26
 pandas>=2.2
-scikit-learn>=1.4
+networkx>=3.2
 torch>=2.3
 torch-geometric>=2.5
+scikit-learn>=1.4
+mlflow>=2.12
